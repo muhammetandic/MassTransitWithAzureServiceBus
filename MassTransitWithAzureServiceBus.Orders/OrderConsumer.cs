@@ -1,5 +1,4 @@
 ﻿using MassTransit;
-using MassTransitWithAzureServiceBus.Api.Models;
 using MassTransitWithAzureServiceBus.Contracts;
 using Microsoft.Extensions.Logging;
 using System.Collections.Generic;

@@ -1,7 +1,5 @@
 ﻿using MassTransit;
-using MassTransitWithAzureServiceBus.OrdersWorker;
 using Microsoft.Extensions.Configuration;
-using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using System;
 
